@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-[TEST PAGE](https://jimmy3663.github.io/ducumentation/test.html)
+[TEST PAGE](https://jimmy3663.github.io/documentation/test.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
